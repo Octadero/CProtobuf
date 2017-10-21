@@ -1,0 +1,5 @@
+module CProtobuf [system] {
+  header "CProtobuf.h"
+  link "protobuf"
+  export *
+}
